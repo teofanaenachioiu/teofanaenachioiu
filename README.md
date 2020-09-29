@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a Computer Science Student and a Software Developer. I love experimenting with new technologies and building various projects. 
+
 <!--
 **teofanaenachioiu/teofanaenachioiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
