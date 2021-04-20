@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 I am a Computer Science Student and a Software Developer. I love experimenting with new technologies and building various projects. 
 
