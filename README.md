@@ -1,6 +1,8 @@
 ### Hi 👋
 
-I am a Computer Science Student and a Software Developer.
+I am a Java Full-Stack Developer.
+
+## Java - AWS - React
 
 <!--
 **teofanaenachioiu/teofanaenachioiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
